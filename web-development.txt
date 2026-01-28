@@ -1,0 +1,7 @@
+Web Development:
+- Konsisten mempelajari bahasa HTML
+- Konsisten mempelajari bahasa Java
+- Konsisten mempelajari bahasa CSS
+- Konsisten mempelajari bahasa PHP
+- Melakukan pembelajaran bahasa tersebut minimal 1 hari 2 kali 
+- Proyek akhir yaitu membuat web sederhana, seperti tampilan login
